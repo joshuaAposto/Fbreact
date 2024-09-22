@@ -24,6 +24,9 @@ This script allows users to boost reactions on Facebook posts using multiple acc
    pip install colorama
    ```
    ```
+   pkg install git
+   ```
+   ```
    git clone https://github.com/joshuaAposto/Fbreact
    ```
    ```
