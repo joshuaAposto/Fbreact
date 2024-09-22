@@ -30,4 +30,4 @@ This script allows users to boost reactions on Facebook posts using multiple acc
    cd Fbreact
    ```
    ```
-   python fbreact.py or python3 fbrract.py
+   python fbreact.py or python3 fbreact.py
