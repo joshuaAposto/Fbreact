@@ -6,11 +6,11 @@ This script allows users to boost reactions on Facebook posts using multiple acc
 ## Features
 - Input multiple Facebook cookies for enhanced performance.
 - Choose the type of reactions to boost (like, love, care, etc.).
+- but if you choose use a number example 2 and you use this choose 236 or any else
 - Automatic cooldown management.
 - User-friendly console interface.
 
 ## Usage
-1. Clone the repository:
    ```bash
    pkg update && pkg upgrade
    ```
