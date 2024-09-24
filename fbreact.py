@@ -118,10 +118,10 @@ class Machine:
     def get_cookies(self):
         while True:
             try:
-                cookie_count = int(input("\033[1;33mHow many cookies do you want to enter? (1-5): \033[0m"))
-                if 1 <= cookie_count <= 5:
+                cookie_count = int(input("\033[1;33mHow many cookies do you want to enter? (1-30): \033[0m"))
+                if 1 <= cookie_count <= 30:
                     break
-                print("\033[1;91mPlease enter a valid number between 1 and 5.\033[0m")
+                print("\033[1;91mPlease enter a valid number between 1 and 30.\033[0m")
             except ValueError:
                 print("\033[1;91mInvalid input. Please enter a number.\033[0m")
 
